@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>FRAME HOME</title>
+</head>
+<frameset rows="50%, 50%">
+    <frameset cols="50%, 50%">
+        <frame src="F1.html" >
+        <frame src="F2.html" >
+    </frameset>
+    <frameset cols="50%, 50%">
+        <frame src="F3.html">
+        <frame src="F4.html" >
+    </frameset>
+</frameset>
+</html>
